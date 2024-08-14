@@ -16,8 +16,10 @@ Some of the stuff you'll find when browsing are my school projects, which showca
 - REST Api
 - MySQL & Databases
 - Docker
+- Javascript
 
 ### Things I'm familiar with:
+- Websockets
 - JsonRPC Api
 - Google Cloud Services
 - Kubernetes
@@ -25,7 +27,6 @@ Some of the stuff you'll find when browsing are my school projects, which showca
 - CI/CD
 - HTML
 - CSS
-- Javascript
 - Vue3
 
 ### Areas I know a tiny bit and would love to learn more:
